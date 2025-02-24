@@ -1,2 +1,2 @@
 # NumericalAnalysis
-Here I post the python snippets that I do for Numerical Analysis.
+Here I post the Python snippets that I do for Numerical Analysis.
